@@ -45,3 +45,16 @@ Inspired by an internal memo on AI writing patterns shared by Leila Hormozi of A
 ## Licence
 
 MIT
+
+
+---
+
+## Part of the Speedrun AI Labs Skill Library
+
+This skill is part of the open-source skill library at [speedrunlab.ai](https://www.speedrunlab.ai).
+
+Other skills:
+- [/deep-audit](https://github.com/Speedrunlab/deep-audit) — four-phase code auditor with evidence standards
+- [/no-slop-writing](https://github.com/Speedrunlab/no-slop-writing) — eliminates AI-speak from generated text (American English)
+- [/no-slop-writing-au](https://github.com/Speedrunlab/no-slop-writing-au) — same, Australian English edition
+- [/read-before-write](https://github.com/Speedrunlab/read-before-write) — forces AI agents to read files before editing them
