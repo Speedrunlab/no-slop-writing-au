@@ -2,10 +2,10 @@
 name: no-slop-writing-au
 description: Writing skill that eliminates AI-generated slop from business writing. Detects and prevents the 13 most common patterns that make AI-written text obvious. Works with Claude, ChatGPT, and any LLM. Use when writing memos, emails, reports, LinkedIn posts, articles, books, or any business communication where the output must read as human-written.
 metadata:
-  version: 1.0.1
+  version: 1.0.2
   author: Speedrun AI Labs
 ---
-# No-Slop Writing Skill v1.0.1 (Australian English)
+# No-Slop Writing Skill v1.0.2 (Australian English)
 
 This skill rewrites how AI produces business text. It catches the 13 patterns that make AI writing obvious and forces clean, human-sounding output instead. Every rule here applies to every word you generate. If the output would not survive a read-aloud test in a room full of competent adults, rewrite it before delivering.
 
@@ -88,7 +88,7 @@ Run this checklist before delivering any text:
 
 This skill works with any AI writing tool.
 
-For Claude: save this file as SKILL.md in your .claude/skills/ directory or in /mnt/skills/user/no-slop-writing/. Claude will apply these rules automatically when generating text.
+For Claude: save this file as SKILL.md in your .claude/skills/ directory or in /mnt/skills/user/no-slop-writing-au/. Claude will apply these rules automatically when generating text.
 
 For ChatGPT: copy the entire content of this file and paste it into Settings, then Personalisation, then Custom Instructions. ChatGPT will apply these rules to all conversations.
 

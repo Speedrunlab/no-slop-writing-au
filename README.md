@@ -28,7 +28,7 @@ This repo uses **Australian English**. An American English version is at [github
 
 ## Installation
 
-**Claude:** Save `SKILL.md` to your `.claude/skills/` directory or `/mnt/skills/user/no-slop-writing/`. Claude applies the rules automatically.
+**Claude:** Save `SKILL.md` to your `.claude/skills/` directory or `/mnt/skills/user/no-slop-writing-au/`. Claude applies the rules automatically.
 
 **ChatGPT:** Copy the content of `SKILL.md` and paste it into Settings > Personalisation > Custom Instructions.
 
