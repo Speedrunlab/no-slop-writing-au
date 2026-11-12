@@ -40,7 +40,7 @@ See the `examples/` folder for a before-and-after comparison showing the skill i
 
 ## Credits
 
-Inspired by an internal memo on AI writing patterns shared by Leila Hormozi of Acquisition.com. Built by [Speedrun AI Labs](https://speedrunlab.ai), Sydney, Australia.
+Inspired by an internal memo on AI writing patterns shared by Leila Hormozi of Acquisition.com. Not affiliated. Built by [Speedrun AI Labs](https://speedrunlab.ai), Sydney, Australia.
 
 ## Licence
 

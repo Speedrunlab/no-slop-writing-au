@@ -1,8 +1,11 @@
 ---
-name: no-slop-writing
+name: no-slop-writing-au
 description: Writing skill that eliminates AI-generated slop from business writing. Detects and prevents the 13 most common patterns that make AI-written text obvious. Works with Claude, ChatGPT, and any LLM. Use when writing memos, emails, reports, LinkedIn posts, articles, books, or any business communication where the output must read as human-written.
+metadata:
+  version: 1.0.1
+  author: Speedrun AI Labs
 ---
-# No-Slop Writing Skill v1.0 (Australian English)
+# No-Slop Writing Skill v1.0.1 (Australian English)
 
 This skill rewrites how AI produces business text. It catches the 13 patterns that make AI writing obvious and forces clean, human-sounding output instead. Every rule here applies to every word you generate. If the output would not survive a read-aloud test in a room full of competent adults, rewrite it before delivering.
 
@@ -97,4 +100,4 @@ This file uses Australian English. An American English version is available at g
 
 ## Credits
 
-Inspired by an internal memo on eliminating AI-generated writing patterns, originally shared by Leila Hormozi of Acquisition.com. Built by Speedrun AI Labs (speedrunlab.ai), Sydney, Australia.
+Inspired by an internal memo on eliminating AI-generated writing patterns, originally shared by Leila Hormozi of Acquisition.com. Not affiliated. Built by Speedrun AI Labs (speedrunlab.ai), Sydney, Australia.
